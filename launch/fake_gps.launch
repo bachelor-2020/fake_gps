@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="fake_gps" type="fake_gps.py" name="Fake_GPS"  output="screen">
+  </node>
+</launch>
